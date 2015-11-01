@@ -1,5 +1,7 @@
 # Web Design / November 2015 / Group 1
 
+[![Join the chat at https://gitter.im/dibagaran/wd-2015-11-gamma](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/dibagaran/wd-2015-11-gamma?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ### References:
 * [World Wide Web Consortium (W3C)](http://www.w3c.org)
 * [W3Schools Online Web Tutorials](http://www.w3schools.com)
