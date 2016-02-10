@@ -1,0 +1,31 @@
+@keyframes loading {
+	from { width: 0; }
+	to { width: 497px; }
+}
+
+body {
+	padding: 0;
+	margin: 0;
+}
+
+body > div {
+	width: 497px;
+	height: 249px;
+	margin: 100px auto;
+	position: relative;
+}
+
+body > div > div {
+	position: absolute;
+	left: 0;
+	top: 0;
+	bottom: 0;
+	width: 497px;
+	overflow: hidden;
+	background: url(vw_polo.png) no-repeat;
+}
+
+body > div > div:last-child {
+	background-position: left bottom;
+	animation: loading 5s linear infinite alternate;
+}
